@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "茶叶",
+    "unit": "盒",
+    "retailPrice": 40,
+    "netValue": 28,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "蛋白粉",
+    "unit": "盒",
+    "retailPrice": 30,
+    "netValue": 21,
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "茶叶蛋白粉",
+    "unit": "套",
+    "retailPrice": 60,
+    "netValue": 42,
+    "subItems": [{"id": 1, "quantity": 1}, {"id": 2, "quantity": 1}],
+    "status": "active"
+  }  
+]

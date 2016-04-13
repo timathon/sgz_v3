@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "username": "siling",
+    "password": "gogogo",
+    "fullName": "司令",
+    "pictureUrl": "www.sgztmz.com/siling/picture.jpg",
+    "intro": "一人之上，万人之下",
+    "upstream": "people",
+    "mobile": 13312345678,
+    "mobile1": 15512345678,
+    "email": "siling@sgztmz.com",
+    "wexin": "siling_sgz",
+    "company": "长安市新中心投资股份有限公司",
+    "url": "www.sgztmz.com/siling",
+    "address": "长安市唐延中路888号A座8801室",
+    "status": "active",
+    "dateEntry": "2015-1-1",
+    "dataExit": ""
+  }
+]
